@@ -14,8 +14,8 @@ To run this project locally, follow these steps:
 2)Install the required dependencies: pip install -r requirements.txt 
 3)Ensure you have the necessary pre-trained models: 
      The MobileNetV2 model will be automatically downloaded from TensorFlow. For the CIFAR-10 model 
-     include a pre-trained model file (model111.h5) in the project directory. 
-4)Run the Streamlit app:streamlit run app.py
+     include a pre-trained model file (model111.h5) in the project directory.
+     4)Run the Streamlit app:streamlit run app.py
 
 Requirements:- 
 Python 3.x
